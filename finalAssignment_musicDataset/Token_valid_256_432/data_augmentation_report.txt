@@ -1,0 +1,1 @@
+{"pitch_offsets": [-12, 12], "velocity_offsets": [-4, 4], "duration_offsets": [-0.5, 0.5], "all_offset_combinations": false, "velocity_range": [1, 127], "min_duration": 0.03125, "num_tracks_augmented": 3120, "num_files_before": 520, "num_files_after": 3640}
